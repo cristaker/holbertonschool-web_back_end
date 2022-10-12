@@ -109,3 +109,4 @@ class Auth:
                                  hashed_password=hashed_password)
         except NoResultFound:
             raise ValueError()
+        
