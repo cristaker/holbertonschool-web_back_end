@@ -6,7 +6,7 @@ function getResponseFromAPI() {
     } else {
       reject();
     }
-    /* eslint-enable */
+        /* eslint-enable */
   });
 }
 
